@@ -12,14 +12,15 @@ The steps followed for this project are clearly outlined below:
 <img src="images/Data_Science_Workflow.PNG">
 
 
-
-
-
 Dependencies:
 
-pandas
-numpy
-sklearn
-scipy
-wordcloud
-sklearn
+* pandas
+* numpy
+* scikit-learn
+* matplotlib
+* seaborn
+* joblib
+* streamlit
+* eli5
+
+
