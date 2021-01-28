@@ -9,7 +9,7 @@ The entire process is productionized with the help of streamlit. We have built a
 
 The steps followed for this project are clearly outlined below:
 
-<img src="images/Data_Science_Workflow.png">
+<img src="images/Data_Science_Workflow.PNG">
 
 
 
