@@ -1,7 +1,7 @@
-# Disease-Mortality-Predicition
+# Disease-Mortality-Prediction
 
 
-### Hepatitis Mortality Predicition
+### Hepatitis Mortality Prediction
 
 In this project we built an end to end data science pipeline for Hepatitis mortality predicition from scratch. We present three machine learning models and do a comparitive analysis. We have outlined all the major insights at each step in the form of narratives. 
 
